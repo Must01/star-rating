@@ -2,7 +2,7 @@ import { useState } from "react";
 import { FaStar } from "react-icons/fa";
 
 type starProps = {
-  numStar: number;
+  numStar?: number;
 };
 
 export default function StarRating({ numStar = 5 }: starProps) {
