@@ -1,6 +1,7 @@
 ## 📄 README.md
 
 # Star Rating Component
+![20251230-1415-07 6266813](https://github.com/user-attachments/assets/b97ff2d4-6e9a-4c55-8d0a-0ca6d91af540)
 
 A reusable, accessible, and interactive star rating component built with React and Tailwind CSS.
 
